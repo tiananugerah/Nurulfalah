@@ -45,8 +45,6 @@ public class viewLogin extends javax.swing.JFrame {
 
         lPassword1.setText("Password");
 
-        jPasswordField1.setText("jPasswordField1");
-
         lLogin.setText("Login");
         lLogin.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
